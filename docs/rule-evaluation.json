@@ -1,0 +1,221 @@
+{
+  "dataset": "22 labeled synthetic cases, hand-authored expected rule codes",
+  "rule_version": "1.0",
+  "cases": 22,
+  "matched": 22,
+  "elapsed_ms": 1.547,
+  "extraction_evaluated": false,
+  "limitation": "Synthetic agreement is not evidence of nationwide accuracy or extraction performance.",
+  "results": [
+    {
+      "scenario": "valid",
+      "expected": [],
+      "actual": [],
+      "match": true,
+      "outcome": "clear"
+    },
+    {
+      "scenario": "excess",
+      "expected": [
+        "EXCESS_AREA"
+      ],
+      "actual": [
+        "EXCESS_AREA"
+      ],
+      "match": true,
+      "outcome": "conflict"
+    },
+    {
+      "scenario": "overlap",
+      "expected": [
+        "OVERLAPPING_TRANSFER"
+      ],
+      "actual": [
+        "OVERLAPPING_TRANSFER"
+      ],
+      "match": true,
+      "outcome": "conflict"
+    },
+    {
+      "scenario": "mutation-area",
+      "expected": [
+        "AREA_MISMATCH"
+      ],
+      "actual": [
+        "AREA_MISMATCH"
+      ],
+      "match": true,
+      "outcome": "conflict"
+    },
+    {
+      "scenario": "seller",
+      "expected": [
+        "SELLER_MISMATCH"
+      ],
+      "actual": [
+        "SELLER_MISMATCH"
+      ],
+      "match": true,
+      "outcome": "conflict"
+    },
+    {
+      "scenario": "other-mouza",
+      "expected": [],
+      "actual": [],
+      "match": true,
+      "outcome": "clear"
+    },
+    {
+      "scenario": "partial",
+      "expected": [],
+      "actual": [],
+      "match": true,
+      "outcome": "clear"
+    },
+    {
+      "scenario": "pending",
+      "expected": [],
+      "actual": [],
+      "match": true,
+      "outcome": "clear"
+    },
+    {
+      "scenario": "cancelled",
+      "expected": [],
+      "actual": [],
+      "match": true,
+      "outcome": "clear"
+    },
+    {
+      "scenario": "missing-history",
+      "expected": [
+        "MISSING_INFORMATION"
+      ],
+      "actual": [
+        "MISSING_INFORMATION"
+      ],
+      "match": true,
+      "outcome": "insufficient"
+    },
+    {
+      "scenario": "unreadable",
+      "expected": [
+        "AMBIGUOUS_IDENTITY",
+        "MISSING_INFORMATION"
+      ],
+      "actual": [
+        "AMBIGUOUS_IDENTITY",
+        "MISSING_INFORMATION"
+      ],
+      "match": true,
+      "outcome": "insufficient"
+    },
+    {
+      "scenario": "bangla",
+      "expected": [],
+      "actual": [],
+      "match": true,
+      "outcome": "clear"
+    },
+    {
+      "scenario": "english",
+      "expected": [],
+      "actual": [],
+      "match": true,
+      "outcome": "clear"
+    },
+    {
+      "scenario": "correction",
+      "expected": [
+        "EXCESS_AREA"
+      ],
+      "actual": [
+        "EXCESS_AREA"
+      ],
+      "match": true,
+      "outcome": "conflict"
+    },
+    {
+      "scenario": "survey",
+      "expected": [
+        "AMBIGUOUS_IDENTITY"
+      ],
+      "actual": [
+        "AMBIGUOUS_IDENTITY"
+      ],
+      "match": true,
+      "outcome": "insufficient"
+    },
+    {
+      "scenario": "future",
+      "expected": [],
+      "actual": [],
+      "match": true,
+      "outcome": "clear"
+    },
+    {
+      "scenario": "exact",
+      "expected": [],
+      "actual": [],
+      "match": true,
+      "outcome": "clear"
+    },
+    {
+      "scenario": "joint",
+      "expected": [
+        "AMBIGUOUS_IDENTITY"
+      ],
+      "actual": [
+        "AMBIGUOUS_IDENTITY"
+      ],
+      "match": true,
+      "outcome": "insufficient"
+    },
+    {
+      "scenario": "missing-mutation",
+      "expected": [
+        "MISSING_INFORMATION"
+      ],
+      "actual": [
+        "MISSING_INFORMATION"
+      ],
+      "match": true,
+      "outcome": "insufficient"
+    },
+    {
+      "scenario": "conflict-missing",
+      "expected": [
+        "EXCESS_AREA",
+        "MISSING_INFORMATION"
+      ],
+      "actual": [
+        "EXCESS_AREA",
+        "MISSING_INFORMATION"
+      ],
+      "match": true,
+      "outcome": "conflict"
+    },
+    {
+      "scenario": "mutation-party",
+      "expected": [
+        "SELLER_MISMATCH"
+      ],
+      "actual": [
+        "SELLER_MISMATCH"
+      ],
+      "match": true,
+      "outcome": "conflict"
+    },
+    {
+      "scenario": "explicit-overlap",
+      "expected": [
+        "OVERLAPPING_TRANSFER"
+      ],
+      "actual": [
+        "OVERLAPPING_TRANSFER"
+      ],
+      "match": true,
+      "outcome": "conflict"
+    }
+  ]
+}

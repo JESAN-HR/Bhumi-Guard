@@ -1,0 +1,2 @@
+-r requirements.lock
+black==26.10.1

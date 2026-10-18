@@ -1,0 +1,15 @@
+{
+  "team": {"en": "DIU Jex Stone", "bn": "DIU Jex Stone"},
+  "contest": {"en": "LandTech 2026 Innovation Hackathon", "bn": "LandTech ২০২৬ ইনোভেশন হ্যাকাথন"},
+  "creators": [
+    {
+      "name": {"en": "MD Habibur Rahman Jesan", "bn": "MD Habibur Rahman Jesan"},
+      "github_url": "https://github.com/Jesan-hr"
+    },
+    {
+      "name": {"en": "MD. Touhidul Islam Raha", "bn": "MD. Touhidul Islam Raha"},
+      "github_url": "https://github.com/raha-66"
+    }
+  ],
+  "repository_url": null
+}

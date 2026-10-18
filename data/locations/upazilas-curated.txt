@@ -1,0 +1,67 @@
+# Manually transcribed National Portal directory snapshot, retrieved 2026-10-17.
+# district internal slug: English transliteration|stored Bangla; ...
+# Shaistaganj duplicate collapsed; Jiyanagar is added separately with its 2026 renaming notice.
+dhaka:Dhamrai|ধামরাই;Dohar|দোহার;Keraniganj|কেরাণীগঞ্জ;Nawabganj|নবাবগঞ্জ;Savar|সাভার
+faridpur:Alfadanga|আলফাডাঙ্গা;Bhanga|ভাঙ্গা;Boalmari|বোয়ালমারী;Charbhadrasan|চরভদ্রাসন;Faridpur Sadar|ফরিদপুর সদর;Madhukhali|মধুখালী;Nagarkanda|নগরকান্দা;Sadarpur|সদরপুর;Saltha|সালথা
+gazipur:Gazipur Sadar|গাজীপুর সদর;Kaliakair|কালিয়াকৈর;Kaliganj|কালীগঞ্জ;Kapasia|কাপাসিয়া;Sreepur|শ্রীপুর
+gopalganj:Gopalganj Sadar|গোপালগঞ্জ সদর;Kashiani|কাশিয়ানী;Kotalipara|কোটালীপাড়া;Muksudpur|মুকসুদপুর;Tungipara|টুঙ্গিপাড়া
+kishoreganj:Austagram|অষ্টগ্রাম;Bajitpur|বাজিতপুর;Bhairab|ভৈরব;Hossainpur|হোসেনপুর;Itna|ইটনা;Karimganj|করিমগঞ্জ;Katiadi|কটিয়াদী;Kishoreganj Sadar|কিশোরগঞ্জ সদর;Kuliarchar|কুলিয়ারচর;Mithamoin|মিঠামইন;Nikli|নিকলী;Pakundia|পাকুন্দিয়া;Tarail|তাড়াইল
+madaripur:Kalkini|কালকিনি;Madaripur Sadar|মাদারীপুর সদর;Rajoir|রাজৈর;Shibchar|শিবচর;Dasar|ডাসার
+manikganj:Daulatpur|দৌলতপুর;Ghior|ঘিওর;Harirampur|হরিরামপুর;Manikganj Sadar|মানিকগঞ্জ সদর;Saturia|সাটুরিয়া;Shibaloy|শিবালয়;Singair|সিংগাইর
+munshiganj:Gazaria|গজারিয়া;Louhajang|লৌহজং;Munshiganj Sadar|মুন্সীগঞ্জ সদর;Sirajdikhan|সিরাজদিখান;Sreenagar|শ্রীনগর;Tongibari|টংগিবাড়ী
+narayanganj:Araihazar|আড়াইহাজার;Sonargaon|সোনারগাঁ;Narayanganj Sadar|নারায়ণগঞ্জ সদর;Rupganj|রূপগঞ্জ;Bandar|বন্দর
+narsingdi:Belabo|বেলাবো;Monohardi|মনোহরদী;Narsingdi Sadar|নরসিংদী সদর;Palash|পলাশ;Raipura|রায়পুরা;Shibpur|শিবপুর
+rajbari:Baliakandi|বালিয়াকান্দি;Goalanda|গোয়ালন্দ;Kalukhali|কালুখালী;Pangsha|পাংশা;Rajbari Sadar|রাজবাড়ী সদর
+shariatpur:Bhedarganj|ভেদরগঞ্জ;Damudya|ডামুড্যা;Gosairhat|গোসাইরহাট;Naria|নড়িয়া;Shariatpur Sadar|শরীয়তপুর সদর;Zajira|জাজিরা
+tangail:Basail|বাসাইল;Bhuapur|ভূঞাপুর;Delduar|দেলদুয়ার;Dhanbari|ধনবাড়ী;Ghatail|ঘাটাইল;Gopalpur|গোপালপুর;Kalihati|কালিহাতী;Madhupur|মধুপুর;Mirzapur|মির্জাপুর;Nagarpur|নাগরপুর;Sakhipur|সখিপুর;Tangail Sadar|টাঙ্গাইল সদর
+bagerhat:Chitalmari|চিতলমারী;Fakirhat|ফকিরহাট;Kachua|কচুয়া;Mollahat|মোল্লাহাট;Mongla|মোংলা;Morrelganj|মোরেলগঞ্জ;Rampal|রামপাল;Sarankhola|শরণখোলা;Bagerhat Sadar|বাগেরহাট সদর
+chuadanga:Alamdanga|আলমডাঙ্গা;Chuadanga Sadar|চুয়াডাঙ্গা সদর;Damurhuda|দামুড়হুদা;Jibannagar|জীবননগর
+jashore:Abhaynagar|অভয়নগর;Bagherpara|বাঘারপাড়া;Chougachha|চৌগাছা;Jhikargacha|ঝিকরগাছা;Keshabpur|কেশবপুর;Jashore Sadar|যশোর সদর;Manirampur|মণিরামপুর;Sharsha|শার্শা
+jhenaidah:Harinakundu|হরিণাকুন্ডু;Jhenaidah Sadar|ঝিনাইদহ সদর;Kaliganj|কালীগঞ্জ;Kotchandpur|কোটচাঁদপুর;Maheshpur|মহেশপুর;Shailkupa|শৈলকুপা
+khulna:Batiaghata|বটিয়াঘাটা;Dacope|দাকোপ;Dumuria|ডুমুরিয়া;Koyra|কয়রা;Paikgachha|পাইকগাছা;Phultala|ফুলতলা;Rupsha|রূপসা;Terokhada|তেরখাদা;Dighalia|দিঘলিয়া
+kushtia:Bheramara|ভেড়ামারা;Daulatpur|দৌলতপুর;Khoksa|খোকসা;Kumarkhali|কুমারখালী;Kushtia Sadar|কুষ্টিয়া সদর;Mirpur|মিরপুর
+magura:Magura Sadar|মাগুরা সদর;Mohammadpur|মহম্মদপুর;Shalikha|শালিখা;Sreepur|শ্রীপুর
+meherpur:Gangni|গাংনী;Mujibnagar|মুজিবনগর;Meherpur Sadar|মেহেরপুর সদর
+narail:Kalia|কালিয়া;Lohagara|লোহাগড়া;Narail Sadar|নড়াইল সদর
+satkhira:Assasuni|আশাশুনি;Debhata|দেবহাটা;Kalaroa|কলারোয়া;Kaliganj|কালিগঞ্জ;Satkhira Sadar|সাতক্ষীরা সদর;Shyamnagar|শ্যামনগর;Tala|তালা
+bandarban:Alikadam|আলীকদম;Bandarban Sadar|বান্দরবান সদর;Lama|লামা;Naikhongchhari|নাইক্ষ্যংছড়ি;Rowangchhari|রোয়াংছড়ি;Ruma|রুমা;Thanchi|থানচি
+brahmanbaria:Akhaura|আখাউড়া;Banchharampur|বাঞ্ছারামপুর;Bijoynagar|বিজয়নগর;Brahmanbaria Sadar|ব্রাহ্মণবাড়িয়া সদর;Ashuganj|আশুগঞ্জ;Kasba|কসবা;Nabinagar|নবীনগর;Nasirnagar|নাসিরনগর;Sarail|সরাইল
+chandpur:Chandpur Sadar|চাঁদপুর সদর;Faridganj|ফরিদগঞ্জ;Haimchar|হাইমচর;Hajiganj|হাজীগঞ্জ;Kachua|কচুয়া;Matlab South|মতলব দক্ষিণ;Matlab North|মতলব উত্তর;Shahrasti|শাহরাস্তি
+chattogram:Anwara|আনোয়ারা;Banshkhali|বাঁশখালী;Boalkhali|বোয়ালখালী;Chandanaish|চন্দনাইশ;Fatikchhari|ফটিকছড়ি;Hathazari|হাটহাজারী;Lohagara|লোহাগাড়া;Mirsharai|মীরসরাই;Patiya|পটিয়া;Rangunia|রাঙ্গুনিয়া;Raozan|রাউজান;Sandwip|সন্দ্বীপ;Satkania|সাতকানিয়া;Sitakunda|সীতাকুন্ড;Karnaphuli|কর্ণফুলী
+cumilla:Barura|বরুড়া;Brahmanpara|ব্রাহ্মণপাড়া;Burichang|বুড়িচং;Chandina|চান্দিনা;Chauddagram|চৌদ্দগ্রাম;Sadar South|সদর দক্ষিণ;Adarsha Sadar|আদর্শ সদর;Daudkandi|দাউদকান্দি;Debidwar|দেবিদ্বার;Homna|হোমনা;Laksam|লাকসাম;Monoharganj|মনোহরগঞ্জ;Meghna|মেঘনা;Muradnagar|মুরাদনগর;Nangalkot|নাঙ্গলকোট;Titas|তিতাস;Lalmai|লালমাই
+coxs-bazar:Chakaria|চকরিয়া;Coxs Bazar Sadar|কক্সবাজার সদর;Kutubdia|কুতুবদিয়া;Maheshkhali|মহেশখালী;Pekua|পেকুয়া;Ramu|রামু;Teknaf|টেকনাফ;Ukhiya|উখিয়া;Eidgaon|ঈদগাঁও
+feni:Chhagalnaiya|ছাগলনাইয়া;Daganbhuiyan|দাগনভূঞা;Feni Sadar|ফেনী সদর;Fulgazi|ফুলগাজী;Parshuram|পরশুরাম;Sonagazi|সোনাগাজী
+khagrachhari:Dighinala|দীঘিনালা;Manikchhari|মানিকছড়ি;Khagrachhari Sadar|খাগড়াছড়ি সদর;Lakshmichhari|লক্ষীছড়ি;Mahalchhari|মহালছড়ি;Matiranga|মাটিরাঙ্গা;Panchhari|পানছড়ি;Ramgarh|রামগড়;Guimara|গুইমারা
+lakshmipur:Kamalnagar|কমলনগর;Lakshmipur Sadar|লক্ষ্মীপুর সদর;Raipur|রায়পুর;Ramganj|রামগঞ্জ;Ramgati|রামগতি
+noakhali:Begumganj|বেগমগঞ্জ;Chatkhil|চাটখিল;Companiganj|কোম্পানীগঞ্জ;Hatiya|হাতিয়া;Senbag|সেনবাগ;Sonaimuri|সোনাইমুড়ী;Subarnachar|সুবর্ণচর;Noakhali Sadar|নোয়াখালী সদর;Kabirhat|কবিরহাট
+rangamati:Baghaichhari|বাঘাইছড়ি;Barkal|বরকল;Kawkhali|কাউখালী;Kaptai|কাপ্তাই;Juraichhari|জুরাছড়ি;Langadu|লংগদু;Naniarchar|নানিয়ারচর;Rangamati Sadar|রাঙ্গামাটি সদর;Rajasthali|রাজস্থলী;Belaichhari|বিলাইছড়ি
+bogura:Adamdighi|আদমদিঘি;Bogura Sadar|বগুড়া সদর;Dhunat|ধুনট;Dupchanchia|দুপচাঁচিয়া;Gabtali|গাবতলী;Kahaloo|কাহালু;Nandigram|নন্দিগ্রাম;Sariakandi|সারিয়াকান্দি;Shajahanpur|শাজাহানপুর;Sherpur|শেরপুর;Shibganj|শিবগঞ্জ;Sonatala|সোনাতলা
+joypurhat:Akkelpur|আক্কেলপুর;Joypurhat Sadar|জয়পুরহাট সদর;Kalai|কালাই;Panchbibi|পাঁচবিবি;Khetlal|ক্ষেতলাল
+naogaon:Atrai|আত্রাই;Dhamoirhat|ধামইরহাট;Manda|মান্দা;Mahadevpur|মহাদেবপুর;Naogaon Sadar|নওগাঁ সদর;Niamatpur|নিয়ামতপুর;Patnitala|পত্নীতলা;Raninagar|রাণীনগর;Sapahar|সাপাহার;Badalgachi|বদলগাছী;Porsha|পোরশা
+natore:Bagatipara|বাগাতিপাড়া;Baraigram|বড়াইগ্রাম;Gurudaspur|গুরুদাসপুর;Lalpur|লালপুর;Natore Sadar|নাটোর সদর;Singra|সিংড়া;Naldanga|নলডাঙ্গা
+chapainawabganj:Shibganj|শিবগঞ্জ;Bholahat|ভোলাহাট;Gomostapur|গোমস্তাপুর;Nachol|নাচোল;Chapainawabganj Sadar|চাঁপাইনবাবগঞ্জ সদর
+pabna:Atghoria|আটঘরিয়া;Bera|বেড়া;Bhangura|ভাঙ্গুড়া;Chatmohar|চাটমোহর;Faridpur|ফরিদপুর;Ishwardi|ঈশ্বরদী;Pabna Sadar|পাবনা সদর;Santhia|সাঁথিয়া;Sujanagar|সুজানগর
+rajshahi:Bagha|বাঘা;Bagmara|বাগমারা;Charghat|চারঘাট;Durgapur|দুর্গাপুর;Godagari|গোদাগাড়ী;Mohanpur|মোহনপুর;Paba|পবা;Puthia|পুঠিয়া;Tanore|তানোর
+sirajganj:Belkuchi|বেলকুচি;Chauhali|চৌহালি;Kamarkhand|কামারখন্দ;Kazipur|কাজীপুর;Raiganj|রায়গঞ্জ;Shahjadpur|শাহজাদপুর;Sirajganj Sadar|সিরাজগঞ্জ সদর;Tarash|তাড়াশ;Ullapara|উল্লাপাড়া
+habiganj:Ajmiriganj|আজমিরীগঞ্জ;Bahubal|বাহুবল;Baniachong|বানিয়াচং;Chunarughat|চুনারুঘাট;Habiganj Sadar|হবিগঞ্জ সদর;Lakhai|লাখাই;Madhabpur|মাধবপুর;Nabiganj|নবীগঞ্জ;Shaistaganj|শায়েস্তাগঞ্জ
+moulvibazar:Barlekha|বড়লেখা;Juri|জুড়ী;Kamalganj|কমলগঞ্জ;Kulaura|কুলাউড়া;Moulvibazar Sadar|মৌলভীবাজার সদর;Rajnagar|রাজনগর;Sreemangal|শ্রীমঙ্গল
+sunamganj:Bishwambarpur|বিশ্বম্ভরপুর;Chhatak|ছাতক;Derai|দিরাই;Dharmapasha|ধর্মপাশা;Dowarabazar|দোয়ারাবাজার;Jagannathpur|জগন্নাথপুর;Jamalganj|জামালগঞ্জ;Shalla|শাল্লা;Sunamganj Sadar|সুনামগঞ্জ সদর;Tahirpur|তাহিরপুর;Shantiganj|শান্তিগঞ্জ;Madhyanagar|মধ্যনগর
+sylhet:Balaganj|বালাগঞ্জ;Beanibazar|বিয়ানীবাজার;Bishwanath|বিশ্বনাথ;Companiganj|কোম্পানীগঞ্জ;Dakshin Surma|দক্ষিণ সুরমা;Fenchuganj|ফেঞ্চুগঞ্জ;Golapganj|গোলাপগঞ্জ;Gowainghat|গোয়াইনঘাট;Jaintiapur|জৈন্তাপুর;Kanaighat|কানাইঘাট;Sylhet Sadar|সিলেট সদর;Zakiganj|জকিগঞ্জ;Osmaninagar|ওসমানী নগর
+dinajpur:Birampur|বিরামপুর;Birganj|বীরগঞ্জ;Birol|বিরল;Bochaganj|বোচাগঞ্জ;Chirirbandar|চিরিরবন্দর;Phulbari|ফুলবাড়ী;Ghoraghat|ঘোড়াঘাট;Hakimpur|হাকিমপুর;Kaharol|কাহারোল;Khansama|খানসামা;Nawabganj|নবাবগঞ্জ;Parbatipur|পার্বতীপুর;Dinajpur Sadar|দিনাজপুর সদর
+gaibandha:Phulchhari|ফুলছড়ি;Gaibandha Sadar|গাইবান্ধা সদর;Gobindaganj|গোবিন্দগঞ্জ;Palashbari|পলাশবাড়ী;Sadullapur|সাদুল্লাপুর;Saghata|সাঘাটা;Sundarganj|সুন্দরগঞ্জ
+kurigram:Phulbari|ফুলবাড়ী;Bhurungamari|ভূরুঙ্গামারী;Char Rajibpur|চর রাজিবপুর;Chilmari|চিলমারী;Kurigram Sadar|কুড়িগ্রাম সদর;Nageshwari|নাগেশ্বরী;Rajarhat|রাজারহাট;Raumari|রৌমারী;Ulipur|উলিপুর
+lalmonirhat:Aditmari|আদিতমারী;Hatibandha|হাতীবান্ধা;Kaliganj|কালীগঞ্জ;Lalmonirhat Sadar|লালমনিরহাট সদর;Patgram|পাটগ্রাম
+nilphamari:Domar|ডোমার;Jaldhaka|জলঢাকা;Kishoreganj|কিশোরগঞ্জ;Nilphamari Sadar|নীলফামারী সদর;Saidpur|সৈয়দপুর;Dimla|ডিমলা
+panchagarh:Atwari|আটোয়ারী;Boda|বোদা;Debiganj|দেবীগঞ্জ;Panchagarh Sadar|পঞ্চগড় সদর;Tetulia|তেঁতুলিয়া
+rangpur:Badarganj|বদরগঞ্জ;Kaunia|কাউনিয়া;Rangpur Sadar|রংপুর সদর;Mithapukur|মিঠাপুকুর;Pirgachha|পীরগাছা;Pirganj|পীরগঞ্জ;Taraganj|তারাগঞ্জ;Gangachara|গংগাচড়া
+thakurgaon:Pirganj|পীরগঞ্জ;Baliadangi|বালিয়াডাঙ্গী;Haripur|হরিপুর;Ranisankail|রাণীশংকৈল;Thakurgaon Sadar|ঠাকুরগাঁও সদর
+jamalpur:Bakshiganj|বকশীগঞ্জ;Dewanganj|দেওয়ানগঞ্জ;Islampur|ইসলামপুর;Jamalpur Sadar|জামালপুর সদর;Madarganj|মাদারগঞ্জ;Melandah|মেলান্দহ;Sarishabari|সরিষাবাড়ী
+mymensingh:Bhaluka|ভালুকা;Dhobaura|ধোবাউড়া;Fulbaria|ফুলবাড়ীয়া;Gafargaon|গফরগাঁও;Gouripur|গৌরীপুর;Haluaghat|হালুয়াঘাট;Ishwarganj|ঈশ্বরগঞ্জ;Mymensingh Sadar|ময়মনসিংহ সদর;Muktagachha|মুক্তাগাছা;Nandail|নান্দাইল;Phulpur|ফুলপুর;Tarakanda|তারাকান্দা;Trishal|ত্রিশাল
+netrokona:Atpara|আটপাড়া;Barhatta|বারহাট্টা;Durgapur|দুর্গাপুর;Khaliajuri|খালিয়াজুরী;Kalmakanda|কলমাকান্দা;Kendua|কেন্দুয়া;Madan|মদন;Mohanganj|মোহনগঞ্জ;Netrokona Sadar|নেত্রকোণা সদর;Purbadhala|পূর্বধলা
+sherpur:Jhenaigati|ঝিনাইগাতী;Nakla|নকলা;Nalitabari|নালিতাবাড়ী;Sherpur Sadar|শেরপুর সদর;Sreebardi|শ্রীবরদী
+jhalakathi:Jhalakathi Sadar|ঝালকাঠি সদর;Nalchity|নলছিটি;Kathalia|কাঠালিয়া;Rajapur|রাজাপুর
+barguna:Amtali|আমতলী;Bamna|বামনা;Barguna Sadar|বরগুনা সদর;Betagi|বেতাগী;Patharghata|পাথরঘাটা;Taltali|তালতলী
+barishal:Agailjhara|আগৈলঝাড়া;Babuganj|বাবুগঞ্জ;Bakerganj|বাকেরগঞ্জ;Banaripara|বানারীপাড়া;Gournadi|গৌরনদী;Hizla|হিজলা;Barishal Sadar|বরিশাল সদর;Mehendiganj|মেহেন্দিগঞ্জ;Muladi|মুলাদী;Wazirpur|উজিরপুর
+bhola:Bhola Sadar|ভোলা সদর;Borhanuddin|বোরহানউদ্দিন;Daulatkhan|দৌলতখান;Lalmohan|লালমোহন;Monpura|মনপুরা;Tazumuddin|তজুমদ্দিন;Char Fasson|চরফ্যাশন
+patuakhali:Bauphal|বাউফল;Dashmina|দশমিনা;Dumki|দুমকী;Kalapara|কলাপাড়া;Mirzaganj|মির্জাগঞ্জ;Patuakhali Sadar|পটুয়াখালী সদর;Rangabali|রাঙ্গাবালী;Galachipa|গলাচিপা
+pirojpur:Bhandaria|ভান্ডারিয়া;Kawkhali|কাউখালী;Mathbaria|মঠবাড়ীয়া;Nazirpur|নাজিরপুর;Pirojpur Sadar|পিরোজপুর সদর;Nesarabad|নেছারাবাদ
